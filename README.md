@@ -11,6 +11,6 @@ Web estática de un festival ficticio de música que se celebrará los días **1
 
 ## Publicación
 
-La web se publicará mediante GitHub Pages.
+La web está publicada mediante GitHub Pages.
 
-URL: pendiente de publicación.
+URL: https://sayagoserrano25.github.io/festival-dam-2027/
