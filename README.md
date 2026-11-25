@@ -14,3 +14,5 @@ Web estática de un festival ficticio de música que se celebrará los días **1
 La web está publicada mediante GitHub Pages.
 
 URL: https://sayagoserrano25.github.io/festival-dam-2027/
+
+La entrada VIP incluye acceso preferente, zona de descanso y una consumición.
