@@ -16,3 +16,4 @@ La web está publicada mediante GitHub Pages.
 URL: https://sayagoserrano25.github.io/festival-dam-2027/
 
 La entrada VIP incluye acceso preferente, zona de descanso y una consumición.
+El abono general permite acceder al festival los días 18 y 19 de junio de 2027.
